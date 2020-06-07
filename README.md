@@ -1,4 +1,4 @@
-# todolist
+# TS + VueCli3 + VueX + VueRouter => Schedule
 
 ## Project setup
 ```
